@@ -1,2 +1,2 @@
-# The-Tigra-Interviewer
-A Professional tiger which takes the Interview of a candidate.
+# CareDesk
+A hospital reception assistant that helps patients book appointments, sends timely email reminders, and securely manages their information.
